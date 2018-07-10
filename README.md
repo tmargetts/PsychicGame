@@ -16,4 +16,4 @@ When the player loses, the Losses counter increases and restarts the game withou
 
 It's a simple application utilizing HTML and Javascript
 
-:male_genie::genie:
+:male_genie: :genie:
