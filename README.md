@@ -15,5 +15,3 @@ When the player wins, the Wins counter increases and starts the game over again 
 When the player loses, the Losses counter increases and restarts the game without a page refresh (just like when the user wins).
 
 It's a simple application utilizing HTML and Javascript
-
-:male_genie: :genie:
